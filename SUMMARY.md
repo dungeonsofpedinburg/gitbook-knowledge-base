@@ -1,5 +1,5 @@
 * [Введение](introduction.md)
 
-Справочник
+## Справочник
   * [Установка](installation.md)
   * [Другая страница](another-page.md)
