@@ -3,16 +3,18 @@
 
 ## Раздаточные материалы
   - [Лист игрового персонажа](characters-sheet.md)
+  - [Игровые карточки](game-cards.md)
 
 ## Мастер
   * [Как написать приключение](how-to-write-an-adventure.md)
-    - [Выбери тематику и жанр](choose-theme-and-genre.md)
+    - [Выбери тематику и жанр](theme-and-genre.md)
 
 ## Игрок
   - [Как создать игрового персонажа](how-to-make-a-character.md)
+    - [Выбери класс](class.md)
 
 ## Инструменты
-  - [Сценарист](scriptwriter-ai.md)
-    - [Подготовь проект](set-scriptwriter)
+  - [Сценарист AI](scriptwriter-ai.md)
+    - [Подготовь проект](set-scriptwriter.md)
     - [Начинай творить](get-started-with-scriptwriter.md)
     - [Сгенерируй локации](generate-location-map.md)

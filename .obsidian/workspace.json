@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "choose-theme-and-genre.md",
+                "file": "theme-and-genre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "choose-theme-and-genre"
+              "title": "theme-and-genre"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scriptwriter-ai.md",
+                "file": "class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scriptwriter-ai"
+              "title": "class"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scriptwriter-ai.md",
+                "file": "class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for scriptwriter-ai"
+              "title": "Backlinks for class"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scriptwriter-ai.md",
+                "file": "class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from scriptwriter-ai"
+              "title": "Outgoing links from class"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scriptwriter-ai.md",
+                "file": "class.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of scriptwriter-ai"
+              "title": "Outline of class"
             }
           }
         ]
@@ -256,14 +256,16 @@
   "active": "36260264640d2b21",
   "lastOpenFiles": [
     "SUMMARY.md",
-    "generate-location-map.md",
-    "scriptwriter-ai.md",
+    "class.md",
+    "theme-and-genre.md",
+    "how-to-write-an-adventure.md",
+    "game-cards.md",
+    "characters-sheet.md",
     "set-scriptwriter.md",
     "get-started-with-scriptwriter.md",
+    "scriptwriter-ai.md",
+    "generate-location-map.md",
     "introduction.md",
-    "characters-sheet.md",
-    "choose-theme-and-genre.md",
-    "how-to-write-an-adventure.md",
     "how-to-make-a-character.md",
     "installation.md"
   ]
