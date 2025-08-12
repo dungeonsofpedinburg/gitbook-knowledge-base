@@ -20,93 +20,8 @@
               "icon": "lucide-file",
               "title": "SUMMARY"
             }
-          },
-          {
-            "id": "fbf795c4afb32379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scriptwriter-ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scriptwriter-ai"
-            }
-          },
-          {
-            "id": "c5a53b5b66a32334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SUMMARY"
-            }
-          },
-          {
-            "id": "1c2f6515af3646a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "set-scriptwriter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "set-scriptwriter"
-            }
-          },
-          {
-            "id": "4e0401bcb897551e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters-sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "characters-sheet"
-            }
-          },
-          {
-            "id": "1bbf0a9fafe66d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "theme-and-genre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "theme-and-genre"
-            }
-          },
-          {
-            "id": "36260264640d2b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,10 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36260264640d2b21",
+  "active": "9057ebfa891dff95",
   "lastOpenFiles": [
+    "character-magic.md",
+    "character-characteristics.md",
     "SUMMARY.md",
-    "class.md",
+    "charater-race.md",
+    "charater-class.md",
     "theme-and-genre.md",
     "how-to-write-an-adventure.md",
     "game-cards.md",

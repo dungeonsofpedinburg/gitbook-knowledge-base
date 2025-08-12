@@ -11,7 +11,10 @@
 
 ## Игрок
   - [Как создать игрового персонажа](how-to-make-a-character.md)
-    - [Выбери класс](class.md)
+    - [Выбери класс](charater-class.md)
+    - [Раса и личность](charater-race.md)
+    - [Характеристики и модификаторы](character-characteristics.md)
+    - [Использование магии](character-magic.md)
 
 ## Инструменты
   - [Сценарист AI](scriptwriter-ai.md)
