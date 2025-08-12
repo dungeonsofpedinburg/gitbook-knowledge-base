@@ -7,7 +7,11 @@
 
 ## Мастер
   * [Как написать приключение](how-to-write-an-adventure.md)
-    - [Выбери тематику и жанр](theme-and-genre.md)
+    - [Выбери тематику](theme-and-genre.md)
+    - [Придумай конфликт](adventure-conflict.md)
+    - [Построй сюжет](adventure-script.md)
+    - [Составь алгоритм прохождения](adventure-algorithm.md)
+    - [Пропиши финал](adventure-final.md)
 
 ## Игрок
   - [Как создать игрового персонажа](how-to-make-a-character.md)
@@ -15,6 +19,8 @@
     - [Раса и личность](charater-race.md)
     - [Характеристики и модификаторы](character-characteristics.md)
     - [Использование магии](character-magic.md)
+    - [Сгенерируй локации](adventure-location.md)
+    - 
 
 ## Инструменты
   - [Сценарист AI](scriptwriter-ai.md)

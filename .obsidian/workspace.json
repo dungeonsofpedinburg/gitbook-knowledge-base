@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9057ebfa891dff95",
+            "id": "03f423d633805c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,15 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9057ebfa891dff95",
+  "active": "03f423d633805c35",
   "lastOpenFiles": [
+    "how-to-write-an-adventure.md",
+    "SUMMARY.md",
+    "adventure-final.md",
+    "adventure-location.md",
+    "adventure-algorithm.md",
+    "adventure-script.md",
+    "adventure-conflict.md",
+    "theme-and-genre.md",
     "character-magic.md",
     "character-characteristics.md",
-    "SUMMARY.md",
     "charater-race.md",
     "charater-class.md",
-    "theme-and-genre.md",
-    "how-to-write-an-adventure.md",
     "game-cards.md",
     "characters-sheet.md",
     "set-scriptwriter.md",
