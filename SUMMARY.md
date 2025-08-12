@@ -11,6 +11,7 @@
     - [Придумай конфликт](adventure-conflict.md)
     - [Построй сюжет](adventure-script.md)
     - [Составь алгоритм прохождения](adventure-algorithm.md)
+    - [Сгенерируй локации](adventure-location.md)
     - [Пропиши финал](adventure-final.md)
 
 ## Игрок
@@ -19,8 +20,6 @@
     - [Раса и личность](charater-race.md)
     - [Характеристики и модификаторы](character-characteristics.md)
     - [Использование магии](character-magic.md)
-    - [Сгенерируй локации](adventure-location.md)
-    - 
 
 ## Инструменты
   - [Сценарист AI](scriptwriter-ai.md)
