@@ -1,5 +1,5 @@
 # Summary
-* [Введение](introduction.md)
+* [Введение и история изменений](introduction.md)
 
 ## Раздаточные материалы
   - [Лист игрового персонажа](characters-sheet.md)
@@ -13,3 +13,6 @@
 
 ## Инструменты
   - [Сценарист](scriptwriter-ai.md)
+    - [Подготовь проект](set-scriptwriter)
+    - [Начинай творить](get-started-with-scriptwriter.md)
+    - [Сгенерируй локации](generate-location-map.md)
