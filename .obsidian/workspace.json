@@ -22,17 +22,45 @@
             }
           },
           {
+            "id": "fbf795c4afb32379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scriptwriter-ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scriptwriter-ai"
+            }
+          },
+          {
             "id": "4e0401bcb897551e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "characters-sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "characters-sheet"
+            }
+          },
+          {
+            "id": "1bbf0a9fafe66d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "choose-theme-and-genre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "choose-theme-and-genre"
             }
           }
         ],
@@ -109,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "scriptwriter-ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SUMMARY"
+              "title": "Backlinks for scriptwriter-ai"
             }
           },
           {
@@ -128,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "scriptwriter-ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SUMMARY"
+              "title": "Outgoing links from scriptwriter-ai"
             }
           },
           {
@@ -157,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "scriptwriter-ai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SUMMARY"
+              "title": "Outline of scriptwriter-ai"
             }
           }
         ]
@@ -183,11 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e0401bcb897551e",
+  "active": "fbf795c4afb32379",
   "lastOpenFiles": [
-    "introduction.md",
-    "choose-theme-and-genre.md",
     "SUMMARY.md",
+    "scriptwriter-ai.md",
+    "characters-sheet.md",
+    "choose-theme-and-genre.md",
+    "introduction.md",
     "how-to-write-an-adventure.md",
     "how-to-make-a-character.md",
     "installation.md"

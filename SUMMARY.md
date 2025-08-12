@@ -2,14 +2,14 @@
 * [Введение](introduction.md)
 
 ## Раздаточные материалы
-  - [how-to-make-a-character](how-to-make-a-character.md)
+  - [Лист игрового персонажа](characters-sheet.md)
 
 ## Мастер
   * [Как написать приключение](how-to-write-an-adventure.md)
     - [Выбери тематику и жанр](choose-theme-and-genre.md)
 
 ## Игрок
-  - [how-to-make-a-character](how-to-make-a-character.md)
+  - [Как создать игрового персонажа](how-to-make-a-character.md)
 
 ## Инструменты
-  - [how-to-make-a-character](how-to-make-a-character.md)
+  - [Сценарист](scriptwriter-ai.md)
